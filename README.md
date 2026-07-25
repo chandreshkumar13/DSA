@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/chandreshkumar13/DSA/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/chandreshkumar13/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0724-find-pivot-index](https://github.com/chandreshkumar13/DSA/tree/master/0724-find-pivot-index) |
 ## Prefix Sum
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/chandreshkumar13/DSA/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/chandreshkumar13/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Greedy
 |  |
 | ------- |
