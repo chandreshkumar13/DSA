@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/chandreshkumar13/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chandreshkumar13/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0073-set-matrix-zeroes](https://github.com/chandreshkumar13/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0724-find-pivot-index](https://github.com/chandreshkumar13/DSA/tree/master/0724-find-pivot-index) |
 | [2974-minimum-number-game](https://github.com/chandreshkumar13/DSA/tree/master/2974-minimum-number-game) |
 ## Prefix Sum
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/chandreshkumar13/DSA/tree/master/2974-minimum-number-game) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/chandreshkumar13/DSA/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/chandreshkumar13/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
