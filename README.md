@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/chandreshkumar13/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chandreshkumar13/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0045-jump-game-ii](https://github.com/chandreshkumar13/DSA/tree/master/0045-jump-game-ii) |
 | [0073-set-matrix-zeroes](https://github.com/chandreshkumar13/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0238-product-of-array-except-self](https://github.com/chandreshkumar13/DSA/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/chandreshkumar13/DSA/tree/master/0724-find-pivot-index) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/chandreshkumar13/DSA/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/chandreshkumar13/DSA/tree/master/0045-jump-game-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/chandreshkumar13/DSA/tree/master/0073-set-matrix-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/chandreshkumar13/DSA/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
