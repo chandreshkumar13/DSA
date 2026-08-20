@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/chandreshkumar13/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chandreshkumar13/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/chandreshkumar13/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/chandreshkumar13/DSA/tree/master/0045-jump-game-ii) |
 | [0073-set-matrix-zeroes](https://github.com/chandreshkumar13/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0238-product-of-array-except-self](https://github.com/chandreshkumar13/DSA/tree/master/0238-product-of-array-except-self) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/chandreshkumar13/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chandreshkumar13/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/chandreshkumar13/DSA/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
@@ -49,5 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/chandreshkumar13/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/chandreshkumar13/DSA/tree/master/0045-jump-game-ii) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/chandreshkumar13/DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/chandreshkumar13/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
