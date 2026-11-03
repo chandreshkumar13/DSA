@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/chandreshkumar13/DSA/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/chandreshkumar13/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/chandreshkumar13/DSA/tree/master/0283-move-zeroes) |
+| [0503-next-greater-element-ii](https://github.com/chandreshkumar13/DSA/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/chandreshkumar13/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/chandreshkumar13/DSA/tree/master/0735-asteroid-collision) |
 | [0881-boats-to-save-people](https://github.com/chandreshkumar13/DSA/tree/master/0881-boats-to-save-people) |
@@ -71,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/chandreshkumar13/DSA/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/chandreshkumar13/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/chandreshkumar13/DSA/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/chandreshkumar13/DSA/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/chandreshkumar13/DSA/tree/master/0503-next-greater-element-ii) |
 ## Timsort
 |  |
 | ------- |
